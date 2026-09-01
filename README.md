@@ -27,4 +27,4 @@ Desarrollé un script que ingesta la base de datos del inventario y procesa la i
 
 1. Clonar este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+   git clone https://github.com/gastonszylak/retail-inventory-alerts.git
